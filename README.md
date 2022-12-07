@@ -1,1 +1,2 @@
 # knights-travails
+I have written my program so that every square is filled in exactly once. I think we are in about the same spot. The issue is that each node does not have a link to each possible node. I will continue this later.
